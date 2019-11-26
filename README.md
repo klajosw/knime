@@ -1,4 +1,11 @@
 ### KNIME
 Knime system analyse funcions testing and presentation
 
-More info: https://klajosw.github.io/knime
+
+
+Blog : https://klajosw.blogspot.com/
+
+More info: https://klajosw.github.io/python
+
+Owner info : https://sites.google.com/site/klajosw
+
